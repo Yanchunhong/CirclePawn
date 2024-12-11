@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdTXYRoNp2vhOoLORhW1m74PB1Kmj8r0qYRmyuzLLgJGOZTCO9oFBpNn1Z5OtliGikmDQmXZyVtiZHM7xUkPTQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\CirclePawn\\TestCirclePawn\\TestCirclePawn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apyan\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\apyan\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://172.18.3.110:8008/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

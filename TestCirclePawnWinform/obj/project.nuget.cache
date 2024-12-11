@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vEY7NE4diGjBqVU1PNVTuGsEEM1zynea26BJMXO1Ng8RiuVWcncB5CerE7S506f6Cn1fQEvXZBxQa4/kFi2rw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\CirclePawn\\TestCirclePawnWinform\\TestCirclePawnWinform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apyan\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://172.18.3.110:8008/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
