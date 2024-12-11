@@ -20,7 +20,7 @@ namespace TestCirclePawnWinform
 
             InitializeComponent();
             comboBox1.Items.Add(new MyObject() { Value = 1, Name = "三阶贝塞尔曲线" });
-            comboBox1.Items.Add(new MyObject() { Value = 2, Name = "样条插值曲线" });
+            comboBox1.Items.Add(new MyObject() { Value = 2, Name = "样条插值曲线11" });
             comboBox1.SelectedIndex = 0;
 
         }
